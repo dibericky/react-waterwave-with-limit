@@ -36,6 +36,7 @@ export default function WaterWaveWithLimit({
   colorLineLimit
 }) {
   const valuePercentage = (value / max) * 100;
+  const colorWaterWave = value > limit ? colorOverLimit : colorUnderLimit
   return (
     <div
       style={{
@@ -46,8 +47,9 @@ export default function WaterWaveWithLimit({
     >
       <Limit value={limit} radius={size / 2} max={max} color={colorLineLimit} />
       <WaterWave
-        color={value > limit ? colorOverLimit : colorUnderLimit}
+        color={colorWaterWave}
         height={size}
+        key={`${value}-${colorWaterWave}`}
         title={title}
         percent={valuePercentage}
       />
