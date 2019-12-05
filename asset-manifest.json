@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-waterwavewithlimit/static/css/main.07a718d4.chunk.css",
+    "main.js": "/react-waterwavewithlimit/static/js/main.ad0d20ec.chunk.js",
+    "main.js.map": "/react-waterwavewithlimit/static/js/main.ad0d20ec.chunk.js.map",
+    "runtime-main.js": "/react-waterwavewithlimit/static/js/runtime-main.c3ad6f3c.js",
+    "runtime-main.js.map": "/react-waterwavewithlimit/static/js/runtime-main.c3ad6f3c.js.map",
+    "static/css/2.0f8a7293.chunk.css": "/react-waterwavewithlimit/static/css/2.0f8a7293.chunk.css",
+    "static/js/2.dd22e8f8.chunk.js": "/react-waterwavewithlimit/static/js/2.dd22e8f8.chunk.js",
+    "static/js/2.dd22e8f8.chunk.js.map": "/react-waterwavewithlimit/static/js/2.dd22e8f8.chunk.js.map",
+    "index.html": "/react-waterwavewithlimit/index.html",
+    "precache-manifest.58468de546cf7c4196e1e12daf48f40f.js": "/react-waterwavewithlimit/precache-manifest.58468de546cf7c4196e1e12daf48f40f.js",
+    "service-worker.js": "/react-waterwavewithlimit/service-worker.js",
+    "static/css/2.0f8a7293.chunk.css.map": "/react-waterwavewithlimit/static/css/2.0f8a7293.chunk.css.map",
+    "static/css/main.07a718d4.chunk.css.map": "/react-waterwavewithlimit/static/css/main.07a718d4.chunk.css.map",
+    "static/js/2.dd22e8f8.chunk.js.LICENSE": "/react-waterwavewithlimit/static/js/2.dd22e8f8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3ad6f3c.js",
+    "static/css/2.0f8a7293.chunk.css",
+    "static/js/2.dd22e8f8.chunk.js",
+    "static/css/main.07a718d4.chunk.css",
+    "static/js/main.ad0d20ec.chunk.js"
+  ]
+}
