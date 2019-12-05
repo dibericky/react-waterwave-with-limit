@@ -1,10 +1,10 @@
 {
-  "name": "react-waterwavewithlimit",
+  "name": "react-waterwave-with-limit",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://dibericky.github.io/react-waterwavewithlimit",
+  "homepage": "http://dibericky.github.io/react-waterwave-with-limit/",
   "dependencies": {
     "ant-design-pro": "2.3.2",
     "antd": "3.26.0",
